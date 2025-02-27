@@ -1,1 +1,2 @@
 new file added from git in cmd 
+Hi and hello. this text is been edited through github UI
