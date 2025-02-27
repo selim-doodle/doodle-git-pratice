@@ -1,3 +1,4 @@
 modified text from cmd update time: 02:06 PM from CMD 
 update time: 02:07 PM from CMD 
-update time: 02:08 PM from CMD
+update time: 02:08 PM from CMD"updated in CMD" 
+"updated in CMD" 
